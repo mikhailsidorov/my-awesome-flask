@@ -79,3 +79,10 @@ https://flask-marshmallow.readthedocs.io/
 Flask-Bootstrap packages Bootstrap into an extension that mostly consists of a blueprint named ‘bootstrap’. It can also create links to serve Bootstrap from a CDN.
 
 https://pythonhosted.org/Flask-Bootstrap/
+
+
+## Flask-JWT 
+
+JWT (JSON Web Tokens) for Flask applications.
+
+https://pythonhosted.org/Flask-JWT/
