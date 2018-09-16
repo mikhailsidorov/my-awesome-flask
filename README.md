@@ -86,3 +86,10 @@ https://pythonhosted.org/Flask-Bootstrap/
 JWT (JSON Web Tokens) for Flask applications.
 
 https://pythonhosted.org/Flask-JWT/
+
+
+## Flask-JWT-Extended
+
+A Flask JWT extension that supports refresh tokens, blacklisting/revoking tokens, and token freshness (for accessing critical views)
+
+https://flask-jwt-extended.readthedocs.io/
