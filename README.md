@@ -1,5 +1,5 @@
 # My Awesome Flask
-Flask libs I liked
+Flask libs I like
 
 
 ## Flask-SQLAlchemy
